@@ -19,7 +19,6 @@ I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Ci
     <img src="py.png" width="48" alt="Python" />
     <img src="njs.png" width="50" alt="NodeJS" />
     <img src="php.png" width="50" alt="Php" />
-    <img src="sass.png" width="50" alt="sass" />
     <img src="mysql.png" width="50" alt=mysql" />
   </div>
 </a>
@@ -35,6 +34,7 @@ I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Ci
 <a href="https://danzzcoding.my.id" style="text-decoration: none">
   <div>
     <img src="css.png" width="50" alt="Css" />
+    <img src="sass.png" width="50" alt="sass" />
   </div>
 </a>
 
