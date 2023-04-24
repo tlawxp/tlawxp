@@ -1,8 +1,8 @@
 ## Hi👋, My name is TlawXp
 I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Cianjur, West Java, Indonesian, I am 17 years old, thanks.
 
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcoding.my.id)
-[![Rest Api](https://img.shields.io/badge/Rest%20Api-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzapi.xyz)
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://github.com/tlawxp)
+[![Rest Api](https://img.shields.io/badge/Rest%20Api-blue?style=for-the-badge&logo=&logoColor=black)](https://github.com/tlawxp)
 
 ## 🚀 Programming Languages
 <a href="https://github.com/tlawxp" style="text-decoration: none">
