@@ -1,5 +1,5 @@
-## Hi👋, My name is Danzz (Ramdani)
-I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Bogor, West Java, Indonesian, I am 17 years old, thanks.
+## Hi👋, My name is TlawXp
+I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Cianjur, West Java, Indonesian, I am 17 years old, thanks.
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcoding.my.id)
 [![Rest Api](https://img.shields.io/badge/Rest%20Api-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzapi.xyz)
@@ -46,7 +46,7 @@ I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Bo
 </a>
 
 ## 📉 My GitHub Stats
-![](https://komarev.com/ghpvc/?username=danzzcoding&color=000000)
+![](https://komarev.com/ghpvc/?username=tlawxp&color=000000)
 
 <a href="https://danzzcoding.my.id" style="text-decoration:none">
   <div>
@@ -57,7 +57,7 @@ I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Bo
 
 ## 🔗 Get in touch with me
 <div>
-  <a href="mailto:danzzcoding@gmail.com" style="text-decoration:none">
+  <a href="mailto:tlawme15@gmail.com" style="text-decoration:none">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" width="50" alt="Email" />
   </a>
   <a href="https://wa.me/6289512545999" style="text-decoration:none">
