@@ -65,7 +65,7 @@ I'm a programmer, my role is Full Stack Web Developer (Frontend+Backend) from Ci
   <a href="https://wa.me/6283835121071" style="text-decoration:none">
     <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="50" alt="WhatsApp" />
   </a>
-  <a href="https://www.facebook.com/BrianWalker.1555" style="text-decoration:none">
+  <a href="https://web.facebook.com/TlawXp/" style="text-decoration:none">
     <img src="https://img.icons8.com/color/96/000000/facebook-new--v1.png" width="50" alt="Facebook" />
   </a>
 </div>
